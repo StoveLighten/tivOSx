@@ -1,4 +1,5 @@
 # TIV Operating System
+Half of this is wrong because it's talking about a completely different operating system. Smh, get it right
 tivOS is a POSIX-compliant operating system in C. An active effort of making a full OS, with a simple and readable codebase.
 
 [![GitHub top language](https://img.shields.io/github/languages/top/saltytine/tivOS?logo=c&label=)](https://github.com/saltytine/tivOS/blob/master/src/kernel/Makefile)
